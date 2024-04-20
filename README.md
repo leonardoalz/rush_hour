@@ -1,6 +1,6 @@
 ## Rush Hour
 
-This Python program provides functionality to solve the Rush Hour puzzle game by implementing various search algorithms. The Rush Hour puzzle involves moving vehicles within a grid to clear a path for a specific vehicle to exit the grid. Each vehicle has a specific size and orientation, and they can only move in the direction they are oriented.
+This Python program provides functionality to solve the Rush Hour puzzle game by implementing various search algorithms. The objective of the game is to clear a path for the red car (car 0) to exit the grid by moving other vehicles within the grid. The Rush Hour puzzle involves moving vehicles within a grid, where each vehicle has a specific size and orientation, and they can only move in the direction they are oriented.
 
 ### Usage
 
