@@ -55,4 +55,4 @@ python rush_hour.py
 
 ### Credits
 
-This program was created by [insert your name] and is provided under [insert license].
+This program was created by Leonardo Alzamora, Luana Letra, and Diogo Luís as part of a project for the course "Elements of Artificial Intelligence and Data Science" at the University of Porto.
